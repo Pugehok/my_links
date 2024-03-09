@@ -26,6 +26,11 @@ export const links: Array<link> = [
         url: 'https://www.behance.net/demetrovichzich',
         title: 'Behance'
     },
+    {
+        image:"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.iconsdb.com%2Ficons%2Fpreview%2Fpurple%2Fbehance-3-xxl.png&f=1&nofb=1&ipt=825cb0f2493d6edbe5637b7cf69e9b8bbe3666cfe7bdaebfa87cae878b6a9c8f&ipo=images",
+        url: 'https://fronted-challenge-2.vercel.app/',
+        title: 'Last project'
+    },
 ]
 
 
