@@ -1,5 +1,4 @@
 import { Layout } from "./components/layout/layout";
-import image from "./assets/avatar.jpg";
 import { links } from "./constats";
 import { ItemsLink } from "./components/itemsLink";
 
