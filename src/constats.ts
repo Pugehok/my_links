@@ -26,11 +26,7 @@ export const links: Array<link> = [
         url: 'https://www.behance.net/demetrovichzich',
         title: 'Behance'
     },
-    {
-        image:'',
-        url: 'https://fronted-challenge-2.vercel.app/',
-        title: 'Last project'
-    },
+
 ]
 
 
