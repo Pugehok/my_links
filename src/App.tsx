@@ -18,7 +18,7 @@ export const App = () => {
           <div className=" xl:w-4/12 sm:w-11/12  md:w-6/12 items-center md:mr-6">
             <div className="h-fit flex bg-primary-purple text-center flex-col xl:p-8 space-y-4 xl:h-1/2 rounded-xl">
               <div className="pt-12">
-                <span className="text-white text-4xl font-bold">Ссылки 🌐</span>
+                <span className="text-white text-2xl xl:text-4xl font-bold">Ссылки 🌐</span>
               </div>
               <div className="">
                 <ul className="space-y-8  xl:space-y-6 p-12 flex flex-col">
