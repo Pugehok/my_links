@@ -13,7 +13,7 @@ export const links: Array<link> = [
     },
     {
         image:"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.iconsdb.com%2Ficons%2Fdownload%2Fpurple%2Ftelegram-3-512.png&f=1&nofb=1&ipt=160b0455bb95a9fd7fa4a3272c0ac351885ff9de4cc3fa8002fe06b9e037b272&ipo=images",
-        url: 'https://t.me/podomonoim5',
+        url: 'https://web.telegram.org/k/#@demetrovichz',
         title: 'Telegram'
     },
     {
